@@ -6,6 +6,9 @@
 
 This is an application for tracking the spread of COVID-19 in the world and in selected countries. The information is provided in the form of a table, a list, a graph and an interactive map.
 
+The project was carried out in a team of two people.
+Contributor's github: [svetlana-tyshkevich](https://github.com/svetlana-tyshkevich)
+
 ## The structure and features of the application
 
 1. A table that displays the following data:
